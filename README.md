@@ -316,7 +316,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices)
 * [Pusher Laravel Tutorials](https://pusher.com/tutorials?tag=Laravel)
 * [LaraShout](https://larashout.com/)
-* [Laravel Generate Fake Data using Factory Tinker](https://itstuffsolutiotions.io/laravel-12-generate-fake-data-using-factory-tinker/)
+* [Laravel 12 GitHub OAuth Login with Socialite](https://github.com/itstuffsolutions/laravel-12-socialite-login-with-github-oauth-example)
 
 ## Videos
 
